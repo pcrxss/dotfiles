@@ -1,0 +1,50 @@
+[global]
+# Fonts
+font = JetBrainsMono Nerd Font 12
+
+# Geometry (width x lines, x-offset, y-offset)
+geometry = "300x5-10+10"
+
+# Transparency (0 = opaque, 10 = fully transparent)
+transparency = 8
+
+# Corner radius for rounded corners
+corner_radius = 5
+
+# Padding inside notification
+padding = 8
+frame_width = 2
+
+# Time notifications stay visible (ms)
+timeout = 5000
+
+# Use your Kitty colors for consistency
+foreground = "#c4c6cc"
+background = "#161d33"
+frame_color = "#c4c6cc"
+
+# Urgency levels fade in/out times
+fade_in_steps = 10
+fade_out_steps = 10
+
+# Hint for fade in/out duration
+fade_in_time = 200
+fade_out_time = 200
+
+[urgency_low]
+timeout = 3000
+background = "#161d33"
+foreground = "#c4c6cc"
+frame_color = "#76899B"
+
+[urgency_normal]
+timeout = 5000
+background = "#161d33"
+foreground = "#c4c6cc"
+frame_color = "#47A3D5"
+
+[urgency_critical]
+timeout = 10000
+background = "#161d33"
+foreground = "#c4c6cc"
+frame_color = "#90A1AE"
