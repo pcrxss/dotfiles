@@ -7,3 +7,4 @@ My First Dots "MiwaDots" which I'm gonna expand more and experiment more with.
 
 <img width="3286" height="1080" alt="screenshot_2025-11-04_17-38-09" src="https://github.com/user-attachments/assets/7a05252c-b317-4ce7-acfa-b454fc26527d" />
 My desktop featuring my Polybar which can be found in my dots.
+(Download rofi, pywal, spotify/spicetify, vesktop, steam, sober if u want to make use of my premade keybinds)
